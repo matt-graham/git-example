@@ -2,4 +2,4 @@
 
 ## Germany
 
-  * [Würzburg](./wuerzburg.md)
+  * [Würzburg](germany/wuerzburg.md)
