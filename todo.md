@@ -1,3 +1,2 @@
 * China
 * Japan
-* Korea
